@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EEFF41</color>
+    <color name="colorPrimaryDark">#AEEA00</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="navy">#64dd17</color>
+    <color name="chill">#1B9CFC</color>
+    <color name="ball">#009432</color>
+    <color name="cool">#304FFE</color>
+    <color name="dam">#A3CB38</color>
+</resources>
