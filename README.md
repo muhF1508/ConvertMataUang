@@ -1,4 +1,4 @@
-# ConvertMataUang
+# Konversi Mata Uang
 
 ![screenshot](app/src/main/res/Screenshot_1543803085.png)
 
